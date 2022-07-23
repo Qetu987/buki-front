@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none !important;
+}
+
+p, h1, h2{
+	margin-bottom: 0;
+	font-family: 'Jost';
+}
+
+li::marker {
+  color: #343DFF;
+  font-size: 16px;
+}
+
+ul{	padding-left: 16px; }
+
+.margin-l16{ margin-left: 16px; }
+.margin-b16{ margin-bottom: 16px; }
+.margin-r12{ margin-right: 12px; }
+.margin-l12{ margin-left: 12px; }
+.margin-b12{ margin-bottom: 12px; }
+.main_color{ color: #191C1D; }
+.margin-t64{ margin-top: 64px; }
+.margin-b64{ margin-bottom: 64px; }
+.margin-t48{ margin-top: 48px; }
+.margin-t96{ margin-top: 96px; }
+.padding-t96{ padding-top: 96px; }
+.padding-b96{ padding-bottom: 96px; }
+.margin-t128{ margin-top: 128px; }
+.height96{ height: 96px; }
+.margin-t88{ margin-top: 88px; }
+.margin-b96{ margin-bottom: 96px; }
+.margin-b32{ margin-bottom: 32px; }
+.acent_back{ background: #DFE0FF; }
+.margin-0{ margin: 0; }
+.height-24{ height: 24px; }
+.margin-t24{ margin-top: 24px; }
+.margin-l24{ margin-left: 24px; }
+.margin-b24{ margin-bottom: 24px; }
+.text_acent{ color: #00006F; }
+.block{ width: 100%; }
+
+.border_12{	border-radius: 12px; }
+.some_text{ color: #4E4E4E; }
+
+.p_regular{
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 140%;
+}
+
+.h1_medium{
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 39px;
+	line-height: 110%;
+}
+
+.h2_medium{
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 120%;
+}
+
+.h3_medium{
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 120%;
+}
+
+.subtitle{
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 130%;
+}
+
+.naw_block{
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.content{
+	width: 1600px;
+}
+.logo span{
+	font-family: 'Jost';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 120%;
+}
+
+.logo img{
+	width: 48px;
+	height: 48px;
+}
+
+.subjects_footer{
+	max-width: 1000px;
+}
+
+.footer_people{
+	height: 40px;
+	width: 40px;
+}
